@@ -1,6 +1,5 @@
 {
-  "dependencies": {
-    "react-star-rating-component": "^1.4.1"}
+    "react-star-rating-component": "^1.4.1",
   "name": "movieapp",
   "version": "0.1.0",
   "private": true,
